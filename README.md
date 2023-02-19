@@ -33,14 +33,6 @@ Após isso, rode o backend:
 npm run dev
 ```
 
+## 📷 Screenshots  
 https://user-images.githubusercontent.com/11573246/219977920-a799971f-9634-43b9-80a4-4646f45f6158.mp4
 
-
-
-## 📷 Screenshots  
-<div style="flex-direction: row;">
-<video controls autoplay>
-  <source src="https://user-images.githubusercontent.com/11573246/219977920-a799971f-9634-43b9-80a4-4646f45f6158.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-</div>
