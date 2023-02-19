@@ -1,4 +1,4 @@
-# Control Cash ⛽
+# Control Cash 💲
 
 App Control Cash
 
