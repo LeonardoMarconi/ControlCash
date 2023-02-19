@@ -35,5 +35,8 @@ npm run dev
 
 ## 📷 Screenshots  
 <div style="flex-direction: row;">
-<img style="flex-direction: row;" alt="Tela 1" src="https://drive.google.com/uc?export=view&id=1gdfy7t6OcwqDR6cMeENFxT8WZaBl8RZj" width="300" height="600">
+<video controls autoplay>
+  <source src="https://drive.google.com/file/d/1ajISPm97yANrvN_YDWtB-F6FdEanZn8D/view?usp=sharing" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 </div>
